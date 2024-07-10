@@ -1,1 +1,1 @@
-# nosql-challenge
+I was able to complete this challenge by referencing our activities from Week 12. I also utilized Xpert AI, though not as much the activities.
